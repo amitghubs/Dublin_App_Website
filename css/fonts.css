@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: Colaborate;
+    src : url('../fonts/Colaborate/ColabReg-webfont.ttf');
+}
+@font-face {
+    font-family : Colab-Light;
+    src : url('../fonts/Colaborate/ColabLig-webfont.ttf')
+}
+@font-face {
+    font-family : ColabThin;
+    src : url('../fonts/Colaborate/ColabThi-webfont.ttf')
+}
+@font-face {
+    font-family : ChunkFive;
+    src : url('../fonts/ChunkFive/ChunkFive-Regular.ttf')
+}
+@font-face {
+    font-family : FlareLight;
+    src : url('../fonts/FlareLightGothic/FlareLight.ttf')}
+@font-face {
+    font-family : AlexReg;
+    src : url('../fonts/Alexandria/AlexandriaFLF.ttf')}
+@font-face {
+    font-family : AlexBold;
+    src : url('../fonts/Alexandria/AlexandriaFLF-Bold.ttf')
+}
